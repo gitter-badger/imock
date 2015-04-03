@@ -1,4 +1,6 @@
 # imock 
+
+[![Join the chat at https://gitter.im/dmccer/imock](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dmccer/imock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 restful mock server for front-end developer
 
 [![NPM](https://nodei.co/npm/imock.png)](https://nodei.co/npm/imock/)
